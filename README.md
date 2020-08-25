@@ -7,6 +7,7 @@ To get started, open a terminal and perform the following actions:
 * `git clone https://github.com/seand7565/solidus-store.git`
 * `cd solidus-store`
 * `bundle install`
+* `yarn install`
 * `bin/rails db:migrate`
 * `bin/rails db:seed`
 * `bin/rails spree_sample:load`
