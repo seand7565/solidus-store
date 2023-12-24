@@ -1,6 +1,6 @@
 # The Sample Store
 
-This store is being used as a starting point for `The Solidus Guide to ReactJS` workshop held at [SolidusConf 2020](conf.solidus.io).
+This store is being used as a starting point for `The Solidus Guide to ReactJS` workshop held at [SolidusConf 2020](https://www.youtube.com/watch?v=AgHZLrhNAEo).
 
 To get started, open a terminal and perform the following actions:
 * Navigate to the folder you'd like this project to be in
